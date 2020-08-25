@@ -1,5 +1,5 @@
-# VbWizzardHtmlIssue
-Fix for WIzard VB HTML helper
+# VbWizardHtmlIssue
+Fix for Wizard VB HTML helper
 
 This is a project example to demonstrate the fix for Kendo WIzard VB HTML helper
 Source code for issue: https://github.com/telerik/kendo-ui-core/issues/5986
